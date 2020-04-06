@@ -1,5 +1,4 @@
 import { API } from '../../backend';
-// API = http://localhost:8000/api/
 
 
 const signup = user => {
